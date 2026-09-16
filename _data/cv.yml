@@ -1,189 +1,237 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: M. Sadegh Araghizadeh
+  label: Postdoctoral Researcher in Computational Fluid Dynamics
+  email: m.s.araghizadeh@westlake.edu.cn
+  location: Hangzhou, China
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Postdoctoral Researcher at Westlake University specializing in computational fluid dynamics,
+    physics-informed machine learning, and unsteady aerodynamics. Ph.D. on the aerodynamics and
+    aeroacoustics of Urban Air Mobility aircraft using coupled nonlinear vortex methods.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: m-sadegh-araghizadeh
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: m-sadegh-araghizadeh-3a78a682
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Gyeongsang National University
+        location: Jinju, South Korea
+        area: Aerospace Engineering
+        studyType: Ph.D.
+        start_date: 2021
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Aerodynamics and Aeroacoustics of Urban Air Mobility Aircraft Using Coupled Nonlinear Vortex Methods"
+          - "Supervisors: Prof. Rho Shin Myong and Prof. Hakjin Lee"
+          - "Brain Korea 21 Plus (BK21+) scholarship recipient"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Ferdowsi University of Mashhad
+        location: Mashhad, Iran
+        area: Aerospace Engineering
+        studyType: M.Sc.
+        start_date: 2013
+        end_date: 2017
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: The Influence of Nonlinear Aerodynamics on the Aeroelastic Behavior of an Airfoil"
+          - "GPA 4.15/4.0 - ranked 1st among the graduating class"
+
+      - institution: Shahid Bahonar University of Kerman
+        location: Kerman, Iran
+        area: Mechanical Engineering
+        studyType: B.Sc.
+        start_date: 2008
+        end_date: 2013
+        highlights:
+          - "Thesis: Effects of Geometry and Location of Baffles on Surface Heat Transfer in a Two-Dimensional Channel"
+          - "Ranked 1st among undergraduate students"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Westlake University
+        position: Postdoctoral Researcher
+        location: Hangzhou, China
+        start_date: 2025
+        summary: Physics-informed machine learning and reduced-order modeling for unsteady aerodynamics; real-time, physics-accurate aerodynamic prediction and design optimization for complex unsteady flows.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Research Institute of Aviation Technology, Ferdowsi University of Mashhad
+        position: Research Assistant
+        location: Mashhad, Iran
+        start_date: 2017
+        end_date: 2018
+        summary: Propeller blade aerodynamic optimization under Prof. Jalil Rezaeepazhand.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Ferdowsi University of Mashhad
+        position: Teaching Assistant, Fluid Mechanics I
+        location: Mashhad, Iran
+        start_date: 2015
+        end_date: 2016
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Physics of Fluids (AIP Publishing)
+        position: Journal Peer Reviewer
+        start_date: 2023
+        summary: 4 completed reviews.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Rotor-Fuselage-Intake Aerodynamics and Icing Using Vortex and Eulerian-Lagrangian Computational Fluid Dynamics Methods
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - B. Sengupta
+          - E. Esmaeilifar
+          - M.S. Araghizadeh
+          - S. Kang
+          - H. Lee
+          - R.S. Myong
+          - L. Prince Raj
+        publisher: AIAA Journal
+        releaseDate: 2025
+        url: https://doi.org/10.2514/1.J064813
+        summary: Aerodynamic and icing analysis of rotor-fuselage-intake configurations using coupled vortex and Eulerian-Lagrangian CFD methods.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Aeroacoustic Investigation of Side-by-Side Urban Air Mobility Aircraft in Full Configuration with Ground Effect
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - M.S. Araghizadeh
+          - B. Sengupta
+          - H. Lee
+          - R.S. Myong
+        publisher: Physics of Fluids
+        releaseDate: 2024
+        url: https://doi.org/10.1063/5.0221902
+        summary: Comprehensive aerodynamic and aeroacoustic analysis of side-by-side eVTOL aircraft in ground effect (Journal Cover and Featured Paper).
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Comparative Analysis of Direct Method and Fast Multipole Method for Multirotor Wake Dynamics
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - B. Sengupta
+          - Y. Lee
+          - M.S. Araghizadeh
+          - R.S. Myong
+          - H. Lee
+        publisher: International Journal of Aeronautical and Space Sciences
+        releaseDate: 2024
+        url: https://doi.org/10.1007/s42405-023-00699-w
+        summary: Performance comparison of direct and fast multipole approaches for multirotor wake simulations.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Review of Vortex Methods for Rotor Aerodynamics and Wake Dynamics
+        authors:
+          - H. Lee
+          - B. Sengupta
+          - M.S. Araghizadeh
+          - R.S. Myong
+        publisher: Advances in Aerodynamics
+        releaseDate: 2022
+        url: https://doi.org/10.1186/s42774-022-00111-3
+        summary: Review of classical and regularized vortex methods applied to rotor aerodynamics and wake dynamics.
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Simulating Aeroelastic Response of a Self-Sustained Oscillating Rigid Airfoil Using a Boundary Oscillation Method
+        authors:
+          - M.S. Araghizadeh
+          - M.H. Djavareshkian
+          - J. Rezaeepazhand
+        publisher: "Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering"
+        releaseDate: 2020
+        summary: Nonlinear aeroelastic simulation of a self-sustained oscillating rigid airfoil.
 
-      - name: English
-        summary: "Fluent"
+      - title: Atmospheric Turbulence Inflow Effect on the Aerodynamic and Acoustic Performance of Side-by-Side Urban Air Mobility
+        authors:
+          - M.S. Araghizadeh
+          - B. Sengupta
+          - H. Lee
+          - R.S. Myong
+        publisher: Physics of Fluids (submitted)
+        releaseDate: 2025
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Comprehensive Study of Aerodynamics and Aeroacoustics in a High-Speed Compound Rotorcraft
+        authors:
+          - M.S. Araghizadeh
+          - B. Sengupta
+          - H. Lee
+          - R.S. Myong
+        publisher: AIAA Journal (submitted)
+        releaseDate: 2025
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - title: Studying Bulk Viscosity Effect Using a Vortex Particle Method for Two-Dimensional Compressible Flow
+        authors:
+          - M.S. Araghizadeh
+          - H. Lee
+          - R.S. Myong
+        publisher: Journal of Computational Physics (in preparation)
+        releaseDate: 2025
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Awards:
+      - title: Paper Award for Outstanding Research Performance
+        awarder: Graduate School of Mechanical and Aerospace Engineering, Gyeongsang National University
+        date: 2025
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: Journal Cover and Featured Paper
+        awarder: Physics of Fluids
+        date: 2024
+
+      - title: Brain Korea 21 Plus (BK21+) Scholarship
+        awarder: Gyeongsang National University
+        date: 2021
+
+      - title: Ranked within the top 0.4% among 319,259 participants in the Iranian national university entrance exam
+        awarder: Iranian National University Entrance Exam
+        date: 2008
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: In-House Vortex Methods Suite
+        summary: 3D incompressible classical/regularized vortex particle method; 2D compressible vortex particle method with bulk viscosity; Fast Multipole Method; particle remeshing and redistribution; MPI-parallelized Lagrangian solver.
+
+      - name: Rotorcraft Simulation and Trimming Tools
+        summary: In-house trimming for single-rotor, coaxial, compound, and multirotor configurations; hybrid Lagrangian-Eulerian flow solver; simulations of hover, cruise, vortex ring state, and ground effect.
+
+      - name: Fluid-Structure Interaction Solver
+        summary: 2D FSI code for flutter studies of oscillating airfoils.
+
+      - name: Hydrogen Fuel-Cell Aircraft Conceptual Design
+        summary: Collaboration on the conceptual design of a hydrogen fuel-cell aircraft.
+
+      - name: Quantum Computation for Hypersonic Flow
+        summary: Collaboration on implementing quantum computation for numerical hypersonic flow problems.
+
+    Skills:
+      - name: Programming
+        keywords: "FORTRAN (expert), Python, C++, MPI high-performance computing"
+
+      - name: Engineering Software
+        keywords: "Ansys Fluent, Ansys DesignModeler, Ansys Meshing, Pointwise, Tecplot, Jblade, OpenVSP, MATLAB, SolidWorks, CATIA, Minitab"
+
+      - name: Systems and Tools
+        keywords: "Linux, Windows, LaTeX, MS Office, LibreOffice"
+
+    Languages:
+      - name: Persian
+        summary: Native
+      - name: English
+        summary: Advanced (TOEFL 91)
+      - name: Korean
+        summary: Good working knowledge
+      - name: Chinese
+        summary: Basic
+
+    Certificates:
+      - name: CERTIF-ICE - Simulation Methods for the In-Flight Icing Certification of Aircraft, Helicopters and Jet Engines
+        issuer: CERTIF-ICE (Instructors: Prof. Wagdi Habashi, Dr. Alberto Pueyo)
+        date: 2024
+
+      - name: Machine Learning Specialization
+        issuer: DeepLearning.AI (Instructor: Andrew Ng)
+        date: 2024
+
+    Interests:
+      - name: Research Interests
+        keywords: "Computational fluid dynamics, scientific machine learning, Lagrangian vortex methods, fluid-structure interaction, aeroacoustics, urban air mobility, bio-inspired flight, clean energy"
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Rho Shin Myong
+        reference: Professor, Aerospace Engineering, Gyeongsang National University, Jinju, South Korea - myong@gnu.ac.kr
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Hakjin Lee
+        reference: Professor, Aerospace Engineering, Gyeongsang National University, Jinju, South Korea - hlee@gnu.ac.kr
+
+      - name: Prof. Jalil Rezaeepazhand
+        reference: Professor of Aerostructures, Department of Mechanical Engineering, Ferdowsi University of Mashhad - jrezaeep@um.ac.ir
+
+      - name: Prof. M. Hassan Djavareshkian
+        reference: Professor, Aerospace Engineering, Ferdowsi University of Mashhad - javareshkian@um.ac.ir
