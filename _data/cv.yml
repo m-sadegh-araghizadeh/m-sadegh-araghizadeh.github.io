@@ -212,11 +212,11 @@ cv:
 
     Certificates:
       - name: CERTIF-ICE - Simulation Methods for the In-Flight Icing Certification of Aircraft, Helicopters and Jet Engines
-        issuer: CERTIF-ICE (Instructors: Prof. Wagdi Habashi, Dr. Alberto Pueyo)
+        issuer: "CERTIF-ICE (Instructors: Prof. Wagdi Habashi, Dr. Alberto Pueyo)"
         date: 2024
 
       - name: Machine Learning Specialization
-        issuer: DeepLearning.AI (Instructor: Andrew Ng)
+        issuer: "DeepLearning.AI (Instructor: Andrew Ng)"
         date: 2024
 
     Interests:
