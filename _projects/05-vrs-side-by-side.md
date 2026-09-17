@@ -2,7 +2,7 @@
 layout: page
 title: Side-by-Side UAM in the Vortex Ring State
 description: Prediction of side-by-side UAM behavior in the vortex ring state using the vortex particle method (2024 - ongoing)
-img: assets/img/publication_preview/fmm-wake.png
+img: assets/img/publication_preview/vortex_ring_state.png
 importance: 5
 category: work
 ---
