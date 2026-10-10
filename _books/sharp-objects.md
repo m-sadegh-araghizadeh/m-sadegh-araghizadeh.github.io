@@ -7,6 +7,6 @@ olid: OL5842018W
 date: 2026-09-02
 started: 2026-09-02
 finished: 2026-10-02
-status: Read
+status: Finished
 ---
 
