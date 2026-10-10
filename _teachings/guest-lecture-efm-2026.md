@@ -1,15 +1,13 @@
 ---
 layout: course
-title: Environmental Fluid Mechanics — Guest Lecture
-description: Guest lecture for the Environmental Fluid Mechanics course at Westlake University.
+title: Environmental Fluid Mechanics — Guest Lecturer
+description: Guest lecturer for the Environmental Fluid Mechanics course at Westlake University.
 instructor: School of Engineering, Westlake University
 year: 2026
 term: Autumn 2026
 location: Westlake University, Hangzhou, China
 course_id: efm-guest-lecture-2026
 ---
-
-**Guest lecture — October 23, 2026**, Environmental Fluid Mechanics, Westlake University.
 
 Lecture materials will be posted here after the session.
 
