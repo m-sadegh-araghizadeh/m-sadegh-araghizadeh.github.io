@@ -6,6 +6,7 @@ released: 2021
 date: 2026-09-09
 started: 2026-09-09
 status: Reading
+cover: assets/img/book_covers/danger-smoking-beds.png
 ---
 
 Currently reading.
