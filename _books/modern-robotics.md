@@ -6,6 +6,7 @@ released: 2017
 date: 2026-06-05
 started: 2026-06-05
 status: Reading
+cover: assets/img/book_covers/modern-robotics.jpg
 ---
 
 Currently reading - rigid-body transformations, kinematics, and dynamics foundations for robotics and control.
