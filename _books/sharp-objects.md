@@ -7,6 +7,6 @@ date: 2026-09-02
 started: 2026-09-02
 finished: 2026-10-02
 status: Finished
-cover: /assets/img/book_covers/sharp-objects.png
+cover: /assets/img/book_covers/sharp-objects.jpg
 ---
 
