@@ -7,6 +7,7 @@ date: 2026-01-01
 started: 2026-01-01
 finished: 2026-01-01
 status: Finished
+cover: /assets/img/book_covers/what-is-real.jpg
 ---
 
 
