@@ -7,6 +7,7 @@ date: 2026-01-22
 started: 2026-01-22
 finished: 2026-01-22
 status: Finished
+cover: assets/img/book_covers/death-of-ilych.jpg
 ---
 
 
