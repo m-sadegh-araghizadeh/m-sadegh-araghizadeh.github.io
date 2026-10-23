@@ -10,4 +10,4 @@ status: Finished
 cover: assets/img/book_covers/danger-smoking-beds.png
 ---
 
-Currently reading.
+
