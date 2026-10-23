@@ -7,6 +7,7 @@ date: 2026-02-26
 started: 2026-02-26
 finished: 2026-02-26
 status: Finished
+cover: assets/img/book_covers/the-song-achilis.jpg
 ---
 
 
