@@ -5,7 +5,8 @@ author: "Mariana Enriquez"
 released: 2021
 date: 2026-09-09
 started: 2026-09-09
-status: Reading
+finished: 2026-10-16
+status: Finished
 cover: assets/img/book_covers/danger-smoking-beds.png
 ---
 
