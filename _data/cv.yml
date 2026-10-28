@@ -219,6 +219,9 @@ cv:
         keywords: "Computational fluid dynamics, scientific machine learning, Lagrangian vortex methods, fluid-structure interaction, aeroacoustics, urban air mobility, bio-inspired flight, clean energy"
 
     References:
+      - name: Prof. Dixia Fan
+        reference: Assistant Professor, School of Engineering, Westlake University, Hangzhou, China - fandixia@westlake.edu.cn
+        
       - name: Prof. Rho Shin Myong
         reference: Professor, Aerospace Engineering, Gyeongsang National University, Jinju, South Korea - myong@gnu.ac.kr
 
