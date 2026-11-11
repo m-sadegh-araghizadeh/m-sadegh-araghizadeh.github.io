@@ -10,4 +10,4 @@ status: Finished
 cover: assets/img/book_covers/exorcist.jpg
 ---
 
-score 5/5
+5/5
