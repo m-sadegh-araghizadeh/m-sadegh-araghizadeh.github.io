@@ -5,8 +5,9 @@ author: "William Peter Blatty"
 released: 1971
 date: 2026-10-23
 started: 2026-10-23
-status: Reading
+finished: 2025-11-10
+status: Finished
 cover: assets/img/book_covers/exorcist.jpg
 ---
 
-Currently reading
+score 5/5
