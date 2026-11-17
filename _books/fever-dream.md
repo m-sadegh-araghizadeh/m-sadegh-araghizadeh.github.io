@@ -5,8 +5,8 @@ author: "Samanta Schweblin"
 released: 2014
 date: 2026-10-23
 started: 2026-10-23
-status: Reading
+finished: 2026-11-15
+status: Finished
 cover: assets/img/book_covers/fever-dream.jpg
 ---
-
-Currently reading
+2.5/5
